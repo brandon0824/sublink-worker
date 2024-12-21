@@ -9,5 +9,5 @@ kv_namespaces = [
 ]
 
 routes = [
-  { pattern = "https://sub-cf.brandonng.cc/*" }
+  "https://sub-cf.brandonng.cc/*"
 ]
